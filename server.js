@@ -14,8 +14,8 @@ app.use(express.json());
 
 app.use(express.static('public'));
 
-var MONGODB_URI = process.env.MONGODB_URI || "mongodb://user1:password1@ds119585.mlab.com:19585/heroku_l8xft2vc";
-// var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/mongoHeadlines";
+// var MONGODB_URI = process.env.MONGODB_URI || "mongodb://user1:password1@ds119585.mlab.com:19585/heroku_l8xft2vc";
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/mongoHeadlines";
 
 mongoose.connect(MONGODB_URI);
 mongoose.connect(MONGODB_URI,{  
@@ -25,7 +25,7 @@ mongoose.connect(MONGODB_URI,{
 });
 
 
-require("./routes/htmlRoutes")(app);
+require("./routes/HTMLroutes")(app);
 require("./routes/apiRoutes")(app);
 
 app.listen(PORT,function(){ 
