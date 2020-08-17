@@ -4,7 +4,6 @@
 [![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()
 
 Check out the deployed application <a href="https://fitnesshelper.herokuapp.com/">here</a>
-here
 
 ## Description
 
