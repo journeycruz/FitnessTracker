@@ -1,11 +1,12 @@
 # Fitness Tracker
-
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
+[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()
+<br/>
 ![Image of Weather Dashboard](public/img/workoutDashboard.png)
 
 ![Image of Fitness entry](public/img/fitnessEntry.png)
-<br>
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
-[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()
+<br/>
+<br/>
 
 View the deployed Heroku application <a href="https://fitnesshelper.herokuapp.com/">here.</a>
 
