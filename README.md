@@ -1,5 +1,8 @@
 # Fitness Tracker
 
+![Image of Fitness entry](public/img/fitnessEntry.png)
+![Image of Weather Dashboard](public/img/workoutDashboard.png)
+
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 [![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()
 
