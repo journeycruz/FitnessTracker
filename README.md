@@ -1,4 +1,4 @@
-<img src="https://github.com/journeycruz/FitnessTracker/blob/master/public/img/FitnessDashboard.png" align="right" height="200px" />
+<img src="https://github.com/journeycruz/FitnessTracker/blob/master/public/img/FitnessDashboard.png" align="right" height="200px" /><br>
 <img src="https://github.com/journeycruz/FitnessTracker/blob/master/public/img/FitnessDashboard.png" align="right" height="200px" />
 
 # Fitness Helper  [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde) [![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()
