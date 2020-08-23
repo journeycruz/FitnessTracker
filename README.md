@@ -1,4 +1,4 @@
-<img src="https://github.com/journeycruz/FitnessTracker/blob/master/public/img/screely-1598222224090.png" align="right" height="150px" />
+<img src="https://github.com/journeycruz/FitnessTracker/blob/master/public/img/workoutDashboard.png" align="right" height="150px" />
 
 # Fitness Helper  [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde) [![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()
 > This web application allows users to keep track of their fitness progress and graph out their workouts over time. Store workouts based on type (cardio or resistance) and record important information about each workout such as weight used, amount of sets, and number of reps per set for resistance workouts. Distance and duration will be recorded for cardio workouts. Once a new
