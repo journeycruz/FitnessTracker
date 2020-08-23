@@ -1,17 +1,7 @@
 <img src="https://github.com/journeycruz/FitnessTracker/blob/master/public/img/workoutDashboard.png" align="right" height="150px" />
 
-# Fitness Helper [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()
+# Fitness Helper  [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde) [![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()
 > A curated list of awesome READMEs
-
-# Fitness Tracker
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
-[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)]()
-<br/>
-![Image of Weather Dashboard](public/img/workoutDashboard.png)
-
-![Image of Fitness entry](public/img/fitnessEntry.png)
-<br/>
-<br/>
 
 View the deployed Heroku application <a href="https://fitnesshelper.herokuapp.com/">here.</a>
 
