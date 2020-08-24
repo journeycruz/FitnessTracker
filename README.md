@@ -1,6 +1,7 @@
 <img src="https://github.com/journeycruz/FitnessTracker/blob/master/public/img/WorkoutSmartMockup.png" align="right" width="350px" />
 
-# Fitness Helper ![version](https://img.shields.io/badge/version-1.0.0-blue)
+# Fitness Helper        ![version](https://img.shields.io/badge/version-1.0.0-blue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+
 > This web application allows users to keep track of their fitness progress and graph out their workouts over time. Store workouts based on type (cardio or resistance) and record important information about each workout such as weight used, amount of sets, and number of reps per set for resistance workouts. Distance and duration will be recorded for cardio workouts. Once a new
 workout has been recorded to the database, its data will be added to the graphs on the Workout Dashboard so that fitness progress ca
 n be easily tracked.  
